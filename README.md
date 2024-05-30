@@ -46,6 +46,12 @@ pip install -r requirements.txt
 python3 main.py
 ```
 
+5. If you need to change the settings in the .env file after running the script, change the file and then run:
+
+```shell
+source .env
+```
+
 ## Exiting
 
 To stop the virtual environment try either:
